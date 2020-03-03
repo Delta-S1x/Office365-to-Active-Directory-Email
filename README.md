@@ -8,4 +8,4 @@ Azure Active Directory PowerShell for Graph module
 - https://docs.microsoft.com/en-us/office365/enterprise/powershell/connect-to-office-365-powershell
 
 Active Directory
--https://docs.microsoft.com/en-us/powershell/module/addsadministration/?view=win10-ps
+- https://docs.microsoft.com/en-us/powershell/module/addsadministration/?view=win10-ps
